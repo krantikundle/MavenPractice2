@@ -55,7 +55,7 @@
             <configuration>
               <forkCount>0</forkCount>
               <suiteXmlFiles>
-                <suiteXmlFile>C:\Users\Aaradhya\eclipse-workspace1\MavenPractice2\src\test\java\Dev\TestNG.xml</suiteXmlFile>
+                <suiteXmlFile>var/lib/jenkins/workspace/MavenPractice2/src/test/java/Dev/TestNG.xml</suiteXmlFile>
               </suiteXmlFiles>
             </configuration>
           </plugin>
@@ -75,7 +75,7 @@
             <configuration>
               <forkCount>0</forkCount>
               <suiteXmlFiles>
-                <suiteXmlFile>C:\Users\Aaradhya\eclipse-workspace1\MavenPractice2\src\test\java\QA\TestNG.xml</suiteXmlFile>
+                <suiteXmlFile>src/test/java/QA/TestNG.xml</suiteXmlFile>
               </suiteXmlFiles>
             </configuration>
           </plugin>
@@ -95,7 +95,7 @@
             <configuration>
               <forkCount>0</forkCount>
               <suiteXmlFiles>
-                <suiteXmlFile>C:\Users\Aaradhya\eclipse-workspace1\MavenPractice2\src\test\java\Test\TestNG.xml</suiteXmlFile>
+                <suiteXmlFile>var/lib/jenkins/workspace/MavenPractice2/src/test/java/Test/TestNG.xml</suiteXmlFile>
               </suiteXmlFiles>
             </configuration>
           </plugin>
